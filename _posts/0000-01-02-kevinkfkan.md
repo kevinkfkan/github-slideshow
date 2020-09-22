@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcom to our second slide!"
 --- 
-Hi there!
+"Hooray! I'm useful!" - _Zoidberg_
 Use the left arrow to go back!
